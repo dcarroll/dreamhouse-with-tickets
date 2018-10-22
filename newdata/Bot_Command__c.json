@@ -1,0 +1,116 @@
+{
+    "totalSize": 10,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "Bot_Command__c",
+                "referenceId": "refa003B000002y10xQAA"
+            },
+            "Name": "Find Account",
+            "Active__c": true,
+            "Apex_Class__c": "@refHandlerFindAccount",
+            "Pattern__c": "(?i).*account ([A-Za-z0-9]*)",
+            "Sample_Utterance__c": "Account United"
+        },
+        {
+            "attributes": {
+                "type": "Bot_Command__c",
+                "referenceId": "refa003B000002y10yQAA"
+            },
+            "Name": "Report",
+            "Active__c": true,
+            "Apex_Class__c": "HandlerReport",
+            "Pattern__c": "(?i).*([A-Za-z0-9]*) report",
+            "Sample_Utterance__c": "open market report"
+        },
+        {
+            "attributes": {
+                "type": "Bot_Command__c",
+                "referenceId": "refa003B000002y10zQAA"
+            },
+            "Name": "Dashboard",
+            "Active__c": true,
+            "Apex_Class__c": "HandlerDashboard",
+            "Pattern__c": "(?i).*([A-Za-z0-9]*) dashboard",
+            "Sample_Utterance__c": "open portfolio dashboard"
+        },
+        {
+            "attributes": {
+                "type": "Bot_Command__c",
+                "referenceId": "refa003B000002y110QAA"
+            },
+            "Name": "Find Contact",
+            "Active__c": true,
+            "Apex_Class__c": "@refHandlerFindContact",
+            "Pattern__c": "(?i).*contact ([A-Za-z0-9]*)",
+            "Sample_Utterance__c": "Contact jo"
+        },
+        {
+            "attributes": {
+                "type": "Bot_Command__c",
+                "referenceId": "refa003B000002y111QAA"
+            },
+            "Name": "Find House",
+            "Active__c": true,
+            "Apex_Class__c": "HandlerFindProperties",
+            "Pattern__c": "(?i)find house",
+            "Sample_Utterance__c": "Find house"
+        },
+        {
+            "attributes": {
+                "type": "Bot_Command__c",
+                "referenceId": "refa003B000002y112QAA"
+            },
+            "Name": "Find Properties by Bedrooms",
+            "Active__c": true,
+            "Apex_Class__c": "HandlerFindPropertiesByBedrooms",
+            "Pattern__c": "(?i)([A-Za-z0-9]*) bedrooms in ([A-Za-z]*)",
+            "Sample_Utterance__c": "3 bedrooms in Boston"
+        },
+        {
+            "attributes": {
+                "type": "Bot_Command__c",
+                "referenceId": "refa003B000002y113QAA"
+            },
+            "Name": "Help",
+            "Active__c": true,
+            "Apex_Class__c": "HandlerHelp",
+            "Pattern__c": "(?i)help",
+            "Sample_Utterance__c": "Help"
+        },
+        {
+            "attributes": {
+                "type": "Bot_Command__c",
+                "referenceId": "refa003B000002y114QAA"
+            },
+            "Name": "My Open Cases",
+            "Active__c": true,
+            "Apex_Class__c": "@refHandlerMyOpenCases",
+            "Pattern__c": "(?i).*open cases.*",
+            "Sample_Utterance__c": "My Open Cases"
+        },
+        {
+            "attributes": {
+                "type": "Bot_Command__c",
+                "referenceId": "refa003B000002y115QAA"
+            },
+            "Name": "Pipeline",
+            "Active__c": true,
+            "Apex_Class__c": "@refHandlerPipeline",
+            "Pattern__c": "(?i).*pipeline.*",
+            "Sample_Utterance__c": "My Pipeline"
+        },
+        {
+            "attributes": {
+                "type": "Bot_Command__c",
+                "referenceId": "refa003B000002y116QAA"
+            },
+            "Name": "Quarter",
+            "Active__c": true,
+            "Apex_Class__c": "HandlerQuarter",
+            "Pattern__c": "(?i).*quarter.*",
+            "Sample_Utterance__c": "My Quarter"
+        }
+    ]
+}

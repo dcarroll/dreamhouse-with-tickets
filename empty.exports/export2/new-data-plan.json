@@ -1,0 +1,32 @@
+[
+    {
+        "sobject": "EventInstance__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "EventInstance__c.json"
+        ]
+    },
+    {
+        "sobject": "TicketableEvent__c",
+        "saveRefs": true,
+        "files": [
+            "TicketableEvent__c.json"
+        ]
+    },
+    {
+        "sobject": "TicketAllocation__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "TicketAllocation__c.json"
+        ]
+    },
+    {
+        "sobject": "TicketPriceLevel__c",
+        "resolveRefs": true,
+        "files": [
+            "TicketPriceLevel__c.json"
+        ]
+    }
+]

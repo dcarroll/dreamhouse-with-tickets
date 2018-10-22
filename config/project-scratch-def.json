@@ -1,7 +1,7 @@
 {
     "orgName": "Dreamhouse",
     "edition": "Developer",
-    "hasSampleData": "false",
+    "hasSampleData": true,
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"],
         "disabled": ["S1EncryptedStoragePref2"]

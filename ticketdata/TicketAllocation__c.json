@@ -1,0 +1,14 @@
+{
+    "totalSize": 1,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "TicketAllocation__c",
+                "referenceId": "refa073B0000027VFWQA2"
+            },
+            "Name": "Allocation 1",
+            "Event_Instance__c": "@refa063B000004YWknQAG"
+        }
+    ]
+}
