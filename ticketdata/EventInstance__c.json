@@ -5,10 +5,10 @@
         {
             "attributes": {
                 "type": "EventInstance__c",
-                "referenceId": "refa063B000004YWknQAG"
+                "referenceId": "refa030R000003rnIFQAY"
             },
             "Name": "Instance 1",
-            "Ticketable_Event__c": "@refa053B000001pJEMQA2"
+            "Ticketable_Event__c": "@refa080R000001gXjiQAE"
         }
     ]
 }

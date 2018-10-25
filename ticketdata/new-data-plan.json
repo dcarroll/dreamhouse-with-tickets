@@ -1,10 +1,16 @@
 [
     {
-        "sobject": "EventInstance__c",
+        "sobject": "Solution",
         "saveRefs": true,
-        "resolveRefs": true,
         "files": [
-            "EventInstance__c.json"
+            "Solution.json"
+        ]
+    },
+    {
+        "sobject": "Product2",
+        "saveRefs": true,
+        "files": [
+            "Product2.json"
         ]
     },
     {
@@ -12,6 +18,14 @@
         "saveRefs": true,
         "files": [
             "TicketableEvent__c.json"
+        ]
+    },
+    {
+        "sobject": "EventInstance__c",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "EventInstance__c.json"
         ]
     },
     {
@@ -23,10 +37,59 @@
         ]
     },
     {
-        "sobject": "TicketPriceLevel__c",
+        "sobject": "Task",
+        "saveRefs": true,
         "resolveRefs": true,
         "files": [
-            "TicketPriceLevel__c.json"
+            "Task.json"
+        ]
+    },
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Contact.json"
+        ]
+    },
+    {
+        "sobject": "Case",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Case.json"
+        ]
+    },
+    {
+        "sobject": "Lead",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Lead.json"
+        ]
+    },
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Account.json"
+        ]
+    },
+    {
+        "sobject": "Campaign",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Campaign.json"
+        ]
+    },
+    {
+        "sobject": "Opportunity",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Opportunity.json"
         ]
     }
 ]

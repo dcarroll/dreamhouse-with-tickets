@@ -1,0 +1,61 @@
+{
+    "totalSize": 4,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "ref00T0R00000BKr7vUAD"
+            },
+            "WhoId": "@ref0030R00000XhCzUQAV",
+            "WhatId": "@ref0010R00000UB2qYQAT",
+            "Subject": "Email",
+            "ActivityDate": "2018-10-24",
+            "Status": "Not Started",
+            "Priority": "Normal",
+            "IsReminderSet": false,
+            "IsRecurrence": false,
+            "TaskSubtype": "Task"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "ref00T0R00000BKr85UAD"
+            },
+            "WhatId": "@ref5000R000004oQFBQA2",
+            "Subject": "Send Letter",
+            "Status": "Not Started",
+            "Priority": "Normal",
+            "IsReminderSet": false,
+            "IsRecurrence": false,
+            "TaskSubtype": "Task"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "ref00T0R00000BKr8KUAT"
+            },
+            "WhoId": "@ref0030R00000XhCzUQAV",
+            "WhatId": "@ref5000R000004oQFBQA2",
+            "Subject": "Send Quote",
+            "Status": "Not Started",
+            "Priority": "Normal",
+            "IsReminderSet": false,
+            "IsRecurrence": false,
+            "TaskSubtype": "Task"
+        },
+        {
+            "attributes": {
+                "type": "Task",
+                "referenceId": "ref00T0R00000BKr8eUAD"
+            },
+            "WhoId": "@ref00Q0R000004UMECUA4",
+            "Subject": "Send Quote",
+            "Status": "Not Started",
+            "Priority": "Normal",
+            "IsReminderSet": false,
+            "IsRecurrence": false,
+            "TaskSubtype": "Task"
+        }
+    ]
+}

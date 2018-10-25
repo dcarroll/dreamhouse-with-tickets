@@ -1,0 +1,72 @@
+{
+    "totalSize": 4,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "Campaign",
+                "referenceId": "ref7010R000000EHtIQAW"
+            },
+            "Name": "GC Product Webinar - Jan 7, 2002",
+            "Type": "Webinar",
+            "Status": "Completed",
+            "StartDate": "2018-04-04",
+            "EndDate": "2018-04-04",
+            "ExpectedRevenue": 3000000,
+            "BudgetedCost": 10000,
+            "ActualCost": 11400,
+            "ExpectedResponse": 10,
+            "NumberSent": 5000,
+            "IsActive": true
+        },
+        {
+            "attributes": {
+                "type": "Campaign",
+                "referenceId": "ref7010R000000EHtJQAW"
+            },
+            "Name": "User Conference - Jun 17-19, 2002",
+            "Type": "Conference",
+            "Status": "Planned",
+            "StartDate": "2018-09-12",
+            "EndDate": "2018-09-14",
+            "ExpectedRevenue": 5500000,
+            "BudgetedCost": 100000,
+            "ExpectedResponse": 15,
+            "NumberSent": 40000,
+            "IsActive": true
+        },
+        {
+            "attributes": {
+                "type": "Campaign",
+                "referenceId": "ref7010R000000EHtKQAW"
+            },
+            "Name": "DM Campaign to Top Customers - Nov 12-23, 2001",
+            "Type": "Direct Mail",
+            "Status": "Completed",
+            "StartDate": "2018-02-07",
+            "EndDate": "2018-02-18",
+            "ExpectedRevenue": 2500000,
+            "BudgetedCost": 25000,
+            "ActualCost": 23500,
+            "ExpectedResponse": 7,
+            "NumberSent": 15000,
+            "IsActive": true
+        },
+        {
+            "attributes": {
+                "type": "Campaign",
+                "referenceId": "ref7010R000000EHtLQAW"
+            },
+            "Name": "International Electrical Engineers Association Trade Show - Mar 4-5, 2002",
+            "Type": "Trade Show",
+            "Status": "Planned",
+            "StartDate": "2018-05-30",
+            "EndDate": "2018-05-31",
+            "ExpectedRevenue": 8500000,
+            "BudgetedCost": 50000,
+            "ExpectedResponse": 0,
+            "NumberSent": 0,
+            "IsActive": true
+        }
+    ]
+}
