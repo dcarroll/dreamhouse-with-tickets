@@ -1,0 +1,14 @@
+{
+    "totalSize": 1,
+    "done": true,
+    "records": [
+        {
+            "attributes": {
+                "type": "TicketPriceLevel__c",
+                "referenceId": "refa070R000003WtUuQAK"
+            },
+            "Name": "Price Level 1",
+            "Ticket_Allocation__c": "@refa060R000004DQgsQAG"
+        }
+    ]
+}

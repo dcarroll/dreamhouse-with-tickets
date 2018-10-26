@@ -1,47 +1,9 @@
 [
     {
-        "sobject": "Solution",
-        "saveRefs": true,
-        "files": [
-            "Solution.json"
-        ]
-    },
-    {
-        "sobject": "Product2",
-        "saveRefs": true,
-        "files": [
-            "Product2.json"
-        ]
-    },
-    {
         "sobject": "TicketableEvent__c",
         "saveRefs": true,
         "files": [
             "TicketableEvent__c.json"
-        ]
-    },
-    {
-        "sobject": "EventInstance__c",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": [
-            "EventInstance__c.json"
-        ]
-    },
-    {
-        "sobject": "TicketAllocation__c",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": [
-            "TicketAllocation__c.json"
-        ]
-    },
-    {
-        "sobject": "Task",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": [
-            "Task.json"
         ]
     },
     {
@@ -53,43 +15,26 @@
         ]
     },
     {
-        "sobject": "Case",
+        "sobject": "TicketAllocation__c",
         "saveRefs": true,
         "resolveRefs": true,
         "files": [
-            "Case.json"
+            "TicketAllocation__c.json"
         ]
     },
     {
-        "sobject": "Lead",
+        "sobject": "EventInstance__c",
         "saveRefs": true,
         "resolveRefs": true,
         "files": [
-            "Lead.json"
+            "EventInstance__c.json"
         ]
     },
     {
-        "sobject": "Account",
-        "saveRefs": true,
+        "sobject": "TicketPriceLevel__c",
         "resolveRefs": true,
         "files": [
-            "Account.json"
-        ]
-    },
-    {
-        "sobject": "Campaign",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": [
-            "Campaign.json"
-        ]
-    },
-    {
-        "sobject": "Opportunity",
-        "saveRefs": true,
-        "resolveRefs": true,
-        "files": [
-            "Opportunity.json"
+            "TicketPriceLevel__c.json"
         ]
     }
 ]

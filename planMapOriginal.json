@@ -1,0 +1,26 @@
+{
+    "TicketableEvent__c": [
+        "EventInstance__c"
+    ],
+    "EventInstance__c": [
+        "TicketAllocation__c"
+    ],
+    "Contact": [
+        "Lead",
+        "Case"
+    ],
+    "Account": [
+        "Task",
+        "Contact",
+        "Lead",
+        "Case",
+        "Opportunity"
+    ],
+    "Opportunity": [
+        "Lead"
+    ],
+    "Campaign": [
+        "Opportunity"
+    ]
+}
+
